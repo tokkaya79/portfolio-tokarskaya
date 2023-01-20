@@ -1,0 +1,31 @@
+.footer {
+    background-color: var(--dark-bg);
+    padding: 60px 0 50px;
+    margin-top: auto;
+}
+.footer__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 27px;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 30px;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.copyright p + p {
+    margin-top: 0.5em;
+}
+
+.copyright__text {
+    color: var(--white-text);
+    line-height: 1.5;
+}

@@ -1,0 +1,25 @@
+.projects-item {
+    max-width: 370px;
+    background-color: var(--project-card-color);
+    border-radius: 10px;
+    box-shadow: var(--shadow-color);
+    transition: transform 0.5s;
+}
+.projects-item:hover {
+    transform: translate(0, -10px);
+}
+.projects-item:hover .projects__title {
+    text-decoration: underline;
+}
+.projects-item__img {
+    border-radius: 10px;
+    max-width: 370px;
+    height: 278px;
+}
+.projects-item__title {
+    padding: 15px 20px 25px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.5;
+    color: var(--text-color);
+}

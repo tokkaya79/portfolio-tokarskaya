@@ -1,0 +1,28 @@
+.project__ditails {
+    margin: 0 auto;
+    max-width: 860px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.project__video {
+    height: 480px;
+    max-width: 730px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 10px;
+    box-shadow: var(--shadow-color);
+}
+
+.project__desc {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.3;
+    margin: 30px 0;
+}

@@ -1,0 +1,24 @@
+.btn__outline {
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+    height: 48px;
+    padding: 12px 20px;
+    border-radius: 5px;
+    border: 1px solid #464648dd;
+    color: var(--black);
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.15;
+    transition: box-shadow 0.3s ease-in;
+    background-color: var(--white);
+}
+.btn__outline:hover {
+    box-shadow: var(--shadow-color);
+}
+
+.btn__outline:active {
+    position: relative;
+    top: 1px;
+}

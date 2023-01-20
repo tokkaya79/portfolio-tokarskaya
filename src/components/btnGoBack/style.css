@@ -1,0 +1,21 @@
+.btn__go-back {
+    display: flex;
+    color: var(--text-color);
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-left: 70px;
+    align-items: center;
+    position: relative;
+}
+.btn__go-back img {
+    margin-right: 10px;
+}
+.btn__go-back::before{
+    content: '';
+    position: absolute;
+    left: -35px;
+    width: 28px;
+    height: 28px;
+    background: var(--url-img);
+}
