@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-tokarskaya/static/css/main.6e6dc651.css",
-    "main.js": "/portfolio-tokarskaya/static/js/main.2a235bd1.js",
+    "main.js": "/portfolio-tokarskaya/static/js/main.df1602a1.js",
     "static/media/model.mp4": "/portfolio-tokarskaya/static/media/model.312b2bbdce217d857369.mp4",
     "static/media/bonfire.mp4": "/portfolio-tokarskaya/static/media/bonfire.49e980c7056379c18b30.mp4",
     "static/media/marcho.mp4": "/portfolio-tokarskaya/static/media/marcho.232b931b3dc5834b406c.mp4",
@@ -13,6 +13,7 @@
     "static/media/wawe.mp4": "/portfolio-tokarskaya/static/media/wawe.0d8078aef468d1f1fc18.mp4",
     "static/media/engineers.mp4": "/portfolio-tokarskaya/static/media/engineers.43a338699696cd67d8a7.mp4",
     "static/media/mirage.mp4": "/portfolio-tokarskaya/static/media/mirage.985f4e19ee0d5da9e4ac.mp4",
+    "static/media/uiDeskVideo.webm": "/portfolio-tokarskaya/static/media/uiDeskVideo.b1ae50cf2b376cdff2be.webm",
     "static/media/desktop.mp4": "/portfolio-tokarskaya/static/media/desktop.e98cbd232af79bde69b2.mp4",
     "static/media/shop.mp4": "/portfolio-tokarskaya/static/media/shop.158e22e8d705272994bf.mp4",
     "static/media/film.mp4": "/portfolio-tokarskaya/static/media/film.186ca025d4fe40c40ffd.mp4",
@@ -20,6 +21,7 @@
     "static/media/film.png": "/portfolio-tokarskaya/static/media/film.da84686b11189818bb91.png",
     "static/media/videographer.png": "/portfolio-tokarskaya/static/media/videographer.51bed6cc2a6d027fb86e.png",
     "static/media/wawe.png": "/portfolio-tokarskaya/static/media/wawe.2f1462ada746ed24b9e8.png",
+    "static/media/ui-desk.png": "/portfolio-tokarskaya/static/media/ui-desk.fcb78735d432e6abb071.png",
     "static/media/shop.png": "/portfolio-tokarskaya/static/media/shop.16db1005db81fd370a00.png",
     "static/media/model.png": "/portfolio-tokarskaya/static/media/model.73d2280bb2a78cf7c80f.png",
     "static/media/menu.png": "/portfolio-tokarskaya/static/media/menu.26d0c18aedf9c24d6989.png",
@@ -47,10 +49,10 @@
     "static/media/go-back-black.svg": "/portfolio-tokarskaya/static/media/go-back-black.06fda71302fdcf986045.svg",
     "static/media/go-back-white.svg": "/portfolio-tokarskaya/static/media/go-back-white.60dcfb3434f851782bd9.svg",
     "main.6e6dc651.css.map": "/portfolio-tokarskaya/static/css/main.6e6dc651.css.map",
-    "main.2a235bd1.js.map": "/portfolio-tokarskaya/static/js/main.2a235bd1.js.map"
+    "main.df1602a1.js.map": "/portfolio-tokarskaya/static/js/main.df1602a1.js.map"
   },
   "entrypoints": [
     "static/css/main.6e6dc651.css",
-    "static/js/main.2a235bd1.js"
+    "static/js/main.df1602a1.js"
   ]
 }
