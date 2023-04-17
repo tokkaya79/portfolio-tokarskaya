@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-tokarskaya/static/css/main.db9c00a7.css",
+    "main.css": "/portfolio-tokarskaya/static/css/main.32b56abe.css",
     "main.js": "/portfolio-tokarskaya/static/js/main.f3c6a620.js",
     "static/media/model.mp4": "/portfolio-tokarskaya/static/media/model.312b2bbdce217d857369.mp4",
     "static/media/bonfire.mp4": "/portfolio-tokarskaya/static/media/bonfire.49e980c7056379c18b30.mp4",
@@ -53,11 +53,11 @@
     "static/media/fb.svg": "/portfolio-tokarskaya/static/media/fb.56ce4b44dac372456932204e9450cbb4.svg",
     "static/media/go-back-black.svg": "/portfolio-tokarskaya/static/media/go-back-black.06fda71302fdcf986045.svg",
     "static/media/go-back-white.svg": "/portfolio-tokarskaya/static/media/go-back-white.60dcfb3434f851782bd9.svg",
-    "main.db9c00a7.css.map": "/portfolio-tokarskaya/static/css/main.db9c00a7.css.map",
+    "main.32b56abe.css.map": "/portfolio-tokarskaya/static/css/main.32b56abe.css.map",
     "main.f3c6a620.js.map": "/portfolio-tokarskaya/static/js/main.f3c6a620.js.map"
   },
   "entrypoints": [
-    "static/css/main.db9c00a7.css",
+    "static/css/main.32b56abe.css",
     "static/js/main.f3c6a620.js"
   ]
 }
