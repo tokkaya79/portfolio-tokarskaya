@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-tokarskaya/static/css/main.32b56abe.css",
-    "main.js": "/portfolio-tokarskaya/static/js/main.8698934f.js",
+    "main.css": "/portfolio-tokarskaya/static/css/main.c9601d91.css",
+    "main.js": "/portfolio-tokarskaya/static/js/main.82e80075.js",
     "static/media/model.mp4": "/portfolio-tokarskaya/static/media/model.312b2bbdce217d857369.mp4",
     "static/media/bonfire.mp4": "/portfolio-tokarskaya/static/media/bonfire.49e980c7056379c18b30.mp4",
     "static/media/marcho.mp4": "/portfolio-tokarskaya/static/media/marcho.232b931b3dc5834b406c.mp4",
@@ -14,17 +14,19 @@
     "static/media/wawe.mp4": "/portfolio-tokarskaya/static/media/wawe.0d8078aef468d1f1fc18.mp4",
     "static/media/auto-express.webm": "/portfolio-tokarskaya/static/media/auto-express.00f84f05cc7aa1476b47.webm",
     "static/media/engineers.mp4": "/portfolio-tokarskaya/static/media/engineers.43a338699696cd67d8a7.mp4",
+    "static/media/splice.mp4": "/portfolio-tokarskaya/static/media/splice.bfd431aa945d5c5a6cba.mp4",
     "static/media/mirage.mp4": "/portfolio-tokarskaya/static/media/mirage.985f4e19ee0d5da9e4ac.mp4",
     "static/media/uiDeskVideo.webm": "/portfolio-tokarskaya/static/media/uiDeskVideo.b1ae50cf2b376cdff2be.webm",
     "static/media/desktop.mp4": "/portfolio-tokarskaya/static/media/desktop.e98cbd232af79bde69b2.mp4",
     "static/media/shop.mp4": "/portfolio-tokarskaya/static/media/shop.158e22e8d705272994bf.mp4",
     "static/media/film.mp4": "/portfolio-tokarskaya/static/media/film.186ca025d4fe40c40ffd.mp4",
     "static/media/portfolio.mp4": "/portfolio-tokarskaya/static/media/portfolio.e85a9e0bbb5b4aac81f2.mp4",
+    "static/media/tokarska_frontend_CV(ukr).pdf": "/portfolio-tokarskaya/static/media/tokarska_frontend_CV(ukr).2fa70471a62db5d44d9a.pdf",
+    "static/media/tokarska_frontend_CV(pl).pdf": "/portfolio-tokarskaya/static/media/tokarska_frontend_CV(pl).58ea02701d1bb1a766fc.pdf",
+    "static/media/tokarska_frontend_CV(en).pdf": "/portfolio-tokarskaya/static/media/tokarska_frontend_CV(en).bd2ba335e4ae92c07834.pdf",
     "static/media/dashboard.mp4": "/portfolio-tokarskaya/static/media/dashboard.c61d7447b2d2b2b2beff.mp4",
-    "static/media/tokarska_valentyna_CV (en).pdf": "/portfolio-tokarskaya/static/media/tokarska_valentyna_CV (en).337b069ca97301df6e9e.pdf",
-    "static/media/tokarska_valentyna_CV (pl).pdf": "/portfolio-tokarskaya/static/media/tokarska_valentyna_CV (pl).cc7d30f1c15b2d976263.pdf",
-    "static/media/tokarska_valentyna_CV (uk).pdf": "/portfolio-tokarskaya/static/media/tokarska_valentyna_CV (uk).3c5702353cf0a408bf4e.pdf",
     "static/media/film.webp": "/portfolio-tokarskaya/static/media/film.d67c391cea78b5bb7eb1.webp",
+    "static/media/splice.webp": "/portfolio-tokarskaya/static/media/splice.bc2aeab2da78e0f3d82d.webp",
     "static/media/marcho.webp": "/portfolio-tokarskaya/static/media/marcho.3388f962c90260d8dc42.webp",
     "static/media/videographer.webp": "/portfolio-tokarskaya/static/media/videographer.6335a31d11a8c19693b9.webp",
     "static/media/wawe.webp": "/portfolio-tokarskaya/static/media/wawe.ef77114e6886ea039d89.webp",
@@ -57,11 +59,11 @@
     "static/media/fb.svg": "/portfolio-tokarskaya/static/media/fb.56ce4b44dac372456932204e9450cbb4.svg",
     "static/media/go-back-black.svg": "/portfolio-tokarskaya/static/media/go-back-black.06fda71302fdcf986045.svg",
     "static/media/go-back-white.svg": "/portfolio-tokarskaya/static/media/go-back-white.60dcfb3434f851782bd9.svg",
-    "main.32b56abe.css.map": "/portfolio-tokarskaya/static/css/main.32b56abe.css.map",
-    "main.8698934f.js.map": "/portfolio-tokarskaya/static/js/main.8698934f.js.map"
+    "main.c9601d91.css.map": "/portfolio-tokarskaya/static/css/main.c9601d91.css.map",
+    "main.82e80075.js.map": "/portfolio-tokarskaya/static/js/main.82e80075.js.map"
   },
   "entrypoints": [
-    "static/css/main.32b56abe.css",
-    "static/js/main.8698934f.js"
+    "static/css/main.c9601d91.css",
+    "static/js/main.82e80075.js"
   ]
 }
