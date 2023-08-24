@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-tokarskaya/static/css/main.fb21b900.css",
-    "main.js": "/portfolio-tokarskaya/static/js/main.82e80075.js",
+    "main.css": "/portfolio-tokarskaya/static/css/main.11c61e39.css",
+    "main.js": "/portfolio-tokarskaya/static/js/main.5fe2bcd2.js",
     "static/media/model.mp4": "/portfolio-tokarskaya/static/media/model.312b2bbdce217d857369.mp4",
     "static/media/bonfire.mp4": "/portfolio-tokarskaya/static/media/bonfire.49e980c7056379c18b30.mp4",
     "static/media/marcho.mp4": "/portfolio-tokarskaya/static/media/marcho.232b931b3dc5834b406c.mp4",
@@ -21,9 +21,9 @@
     "static/media/shop.mp4": "/portfolio-tokarskaya/static/media/shop.158e22e8d705272994bf.mp4",
     "static/media/film.mp4": "/portfolio-tokarskaya/static/media/film.186ca025d4fe40c40ffd.mp4",
     "static/media/portfolio.mp4": "/portfolio-tokarskaya/static/media/portfolio.e85a9e0bbb5b4aac81f2.mp4",
-    "static/media/tokarska_frontend_CV(ukr).pdf": "/portfolio-tokarskaya/static/media/tokarska_frontend_CV(ukr).2fa70471a62db5d44d9a.pdf",
-    "static/media/tokarska_frontend_CV(pl).pdf": "/portfolio-tokarskaya/static/media/tokarska_frontend_CV(pl).58ea02701d1bb1a766fc.pdf",
-    "static/media/tokarska_frontend_CV(en).pdf": "/portfolio-tokarskaya/static/media/tokarska_frontend_CV(en).bd2ba335e4ae92c07834.pdf",
+    "static/media/tokarska_frontend_CV(ukr).pdf": "/portfolio-tokarskaya/static/media/tokarska_frontend_CV(ukr).955206a33107d58813ec.pdf",
+    "static/media/tokarska_frontend_CV(pl).pdf": "/portfolio-tokarskaya/static/media/tokarska_frontend_CV(pl).e00d93daf52080e76793.pdf",
+    "static/media/tokarska_frontend_CV(en).pdf": "/portfolio-tokarskaya/static/media/tokarska_frontend_CV(en).1e3516fef491bd476940.pdf",
     "static/media/dashboard.mp4": "/portfolio-tokarskaya/static/media/dashboard.c61d7447b2d2b2b2beff.mp4",
     "static/media/film.webp": "/portfolio-tokarskaya/static/media/film.d67c391cea78b5bb7eb1.webp",
     "static/media/splice.webp": "/portfolio-tokarskaya/static/media/splice.bc2aeab2da78e0f3d82d.webp",
@@ -59,11 +59,11 @@
     "static/media/fb.svg": "/portfolio-tokarskaya/static/media/fb.56ce4b44dac372456932204e9450cbb4.svg",
     "static/media/go-back-black.svg": "/portfolio-tokarskaya/static/media/go-back-black.06fda71302fdcf986045.svg",
     "static/media/go-back-white.svg": "/portfolio-tokarskaya/static/media/go-back-white.60dcfb3434f851782bd9.svg",
-    "main.fb21b900.css.map": "/portfolio-tokarskaya/static/css/main.fb21b900.css.map",
-    "main.82e80075.js.map": "/portfolio-tokarskaya/static/js/main.82e80075.js.map"
+    "main.11c61e39.css.map": "/portfolio-tokarskaya/static/css/main.11c61e39.css.map",
+    "main.5fe2bcd2.js.map": "/portfolio-tokarskaya/static/js/main.5fe2bcd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb21b900.css",
-    "static/js/main.82e80075.js"
+    "static/css/main.11c61e39.css",
+    "static/js/main.5fe2bcd2.js"
   ]
 }
